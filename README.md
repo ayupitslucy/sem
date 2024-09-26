@@ -1,5 +1,3 @@
-test
-
 # Software Engineering Methods
 * Master Branch Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/ayupitslucy/sem/main.yml?branch=master)
 * Develop Branch Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/ayupitslucy/sem/main.yml?branch=develop)
