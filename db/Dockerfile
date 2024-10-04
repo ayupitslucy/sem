@@ -1,4 +1,4 @@
-# Use the latest MySQL image
+# Use the MySQL image version 8.3 (allows native password plugin)
 FROM mysql:8.3
 # Set the working directory
 WORKDIR /tmp
